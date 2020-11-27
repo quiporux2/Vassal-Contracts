@@ -1,0 +1,2 @@
+﻿is_character_allowed_to_be_player = {
+}
